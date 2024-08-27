@@ -1,5 +1,6 @@
 # My-Calculator---Lightning-Web-Component
 This project is a simple calculator built as a Lightning Web Component (LWC) for Salesforce. The calculator allows users to perform basic arithmetic operations—addition, subtraction, multiplication, and division—between two numbers. The component is designed with Salesforce's Lightning Design System, ensuring a clean and user-friendly interface.
+
 Features
 Basic Arithmetic Operations: Perform addition, subtraction, multiplication, and division between two user-inputted numbers.
 Dynamic Input Handling: Real-time handling of input changes to ensure accurate calculations.
